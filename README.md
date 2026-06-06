@@ -121,7 +121,7 @@ npm install
 Create a `.env` file at the root:
 
 ```env
-VITE_ANTHROPIC_API_KEY=your_api_key_here
+VITE_GEMINI_API_KEY=your_api_key_here
 ```
 
 ```bash
